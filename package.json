@@ -1,0 +1,15 @@
+{
+  "name": "wi-monitor-middleware",
+  "version": "0.0.5",
+  "description": "for monitoring",
+  "main": "index.js",
+  "peerDependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bmq928@gmail.com",
+  "license": "ISC"
+}
